@@ -5,29 +5,10 @@ Track your workouts with Fitness Tracker. The app will keep track of every exerc
 ## Getting Started
 
 1. Clone repository. 
-2. Check in routes/apiRoutes and comment in block of code if you want the database to be prepopulated with dummy values
-3. npm install
-4. node server.js
+2. npm install
+3. node server.js
 
 Running seeders/seed.js is optional to have a prepopulated database.
-
-## Site Pictures
-
-1. Homepage displaying last workout
-
-![Site](/public/assets/pic2.PNG)
-
-2. Creating Workouts
-
-![Site](./public/assets/pic1.PNG)
-
-
-3. Dashboard
-
-![Site](public/assets/pic3.PNG)
-
-
-
 
 ## Built With
 
