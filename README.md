@@ -15,11 +15,11 @@ Running seeders/seed.js is optional to have a prepopulated database.
 
 1. Homepage displaying last workout
 
-![Site](public/assets/pic2.PNG)
+![Site](/public/assets/pic2.PNG)
 
 2. Creating Workouts
 
-![Site](public/assets/pic1.PNG)
+![Site](./public/assets/pic1.PNG)
 
 
 3. Dashboard
