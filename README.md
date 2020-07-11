@@ -23,7 +23,7 @@ Running seeders/seed.js is optional to have a prepopulated database.
 
 ## Deployed Link
 
-* [See Live Site]()
+* [See Live Site](https://fitnesstrackerrr.herokuapp.com/)
 
 ## Author
 
